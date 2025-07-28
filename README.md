@@ -100,3 +100,8 @@ To build a classification model that accurately predicts whether a patient is at
 ```bash
 git clone https://github.com/1Chizey/Heart-Disease-Prediction.git
 cd Heart-Disease-Prediction
+
+📬 Contact
+Francis Chizey
+Data Scientist  | Streamlit Developer
+https://github.com/1Chizey | www.linkedin.com/in/francis-chizey-8838a5256 | chizeyfrancis@gmail.com
